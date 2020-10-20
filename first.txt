@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my first file. kjbjkb
+=======
+This is my first file. Lets edit it to create conflict.
+>>>>>>> 18a2d3a5a57e22243532560d8969d5f9d1ef1f62
